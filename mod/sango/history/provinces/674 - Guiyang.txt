@@ -1,0 +1,32 @@
+#674 - Guiyang
+
+owner = SUU
+controller = SUU
+add_core = SUU
+add_core = CYI
+culture = sichuanese
+religion = confucianism
+capital = "Guiyang"
+trade_goods = iron
+hre = no
+base_tax = 13 
+base_production = 13
+base_manpower = 12
+is_city = yes
+add_core = CDL
+
+1658.4.1 = {
+	owner = QNG
+	controller = QNG
+}
+1662.4.1 = {
+	owner = CZH
+	controller = CZH
+	add_core = CZH
+} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
+1680.1.1 = { controller = QNG }
+1681.10.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}

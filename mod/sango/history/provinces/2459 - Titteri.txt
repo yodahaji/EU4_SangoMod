@@ -1,0 +1,22 @@
+# - Titteri
+
+owner = TLC
+controller = TLC
+culture = algerian
+religion = sunni
+capital = "Medea"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+estate = estate_nobles
+add_core = TLC
+add_core = ALG
+
+1517.1.1 = {
+	owner = ALG
+	controller = ALG
+	remove_core = TLC
+}

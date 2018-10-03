@@ -1,0 +1,15 @@
+#2071 - Limbuwan
+
+owner = NPL
+controller = NPL
+culture = nepali
+religion = hinduism
+capital = "Phedap"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = NPL
+

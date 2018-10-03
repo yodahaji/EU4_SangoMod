@@ -1,0 +1,21 @@
+# 2149 - Ningbo
+
+owner = WWU
+controller = WWU
+add_core = WWU
+culture = wu
+religion = confucianism
+capital = "Ningbo"
+trade_goods = naval_supplies
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 3
+is_city = yes
+add_core = WUU
+
+1646.2.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}

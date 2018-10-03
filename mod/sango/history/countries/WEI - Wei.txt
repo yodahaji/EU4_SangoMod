@@ -1,0 +1,74 @@
+government = celestial_empire
+government_rank = 3
+technology_group = sango
+religion = confucianism
+primary_culture = zhongyuan
+capital = 1836	# Luoyang
+
+historical_rival = SUU WWU
+
+1444.1.1 = {
+	monarch = {
+		name = "Cao"
+		dynasty = "Cao"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+    heir = {
+        name = "Pi"
+        monarch_name = "Pi"
+		dynasty = "Cao"
+        birth_date = 1434.10.21
+		death_date = 1534.3.14
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 5
+    }
+    leader = { name = "Liao"	type = general	rank = 4	fire = 4	shock = 4	manuever = 4	siege = 4 }
+}
+
+1478.1.1 = {
+    monarch = {
+		name = "Pi"
+		dynasty = "Cao"
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+    heir = {
+        name = "Rui"
+        monarch_name = "Rui"
+		dynasty = "Cao"
+        birth_date = 1464.10.21
+		death_date = 1560.3.14
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 3
+    }
+    leader = { name = "SiMa Yi"	type = general	rank = 5	fire = 5	shock = 5	manuever = 5	siege = 4 }
+}
+
+1534.3.14 = {
+    monarch = {
+		name = "Rui"
+		dynasty = "Cao"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+    heir = {
+        name = "Fang"
+        monarch_name = "Fang"
+		dynasty = "Cao"
+        birth_date = 1530.10.21
+		death_date = 1604.3.14
+		claim = 100
+		adm = 3
+		dip = 1
+        mil = 2
+    }
+    leader = { name = "SiMa Yi"	type = general	rank = 5	fire = 5	shock = 5	manuever = 5	siege = 4 }
+}

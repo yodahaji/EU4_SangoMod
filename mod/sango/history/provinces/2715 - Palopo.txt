@@ -1,0 +1,16 @@
+#2715 - Palopo
+
+owner = LUW
+controller = LUW
+culture = sulawesi
+religion = animism
+capital = "Palopo"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = LUW
+
+1605.2.1 = { religion = sunni }

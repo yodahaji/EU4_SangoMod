@@ -1,0 +1,45 @@
+government = celestial_empire
+government_rank = 3
+technology_group = sango
+religion = confucianism
+primary_culture = jianghuai
+capital = 679	# ChengDu
+
+historical_rival = WEI
+
+1444.1.1 = {
+	monarch = {
+		name = "Bei"
+		dynasty = "Liu"
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+    
+    leader = { name = "GuanYu"	type = general	rank = 6	fire = 6	shock = 6	manuever = 6	siege = 6 }
+}
+
+1480.2.5 = {
+    heir = {
+        name = "Shan"
+        monarch_name = "Shan"
+		dynasty = "Liu"
+        birth_date = 1465.10.21
+		death_date = 1560.3.14
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 3
+    }
+    leader = { name = "ZhuGeLiang"	type = general	rank = 6	fire = 6	shock = 6	manuever = 6	siege = 6 }
+}
+
+1515.1.1 = {
+    monarch = {
+		name = "Shan"
+		dynasty = "Liu"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}

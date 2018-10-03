@@ -1,0 +1,22 @@
+#2337 - Unaizah
+
+owner = SHM
+controller = SHM
+culture = bedouin_arabic
+religion = sunni
+capital = "Buraydeh"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = SHM
+
+1534.1.1 = { add_core = TUR } # The Ottomans tried but eventually failed to extend their control into the interior of Arabia
+1536.1.1 = { remove_core = TUR }
+1818.9.9 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+} # The end of the Saudi State

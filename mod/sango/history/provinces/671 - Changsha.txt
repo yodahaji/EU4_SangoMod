@@ -1,0 +1,29 @@
+#671 - Changsha
+
+owner = WWU
+controller = WWU
+add_core = WWU
+culture = xiang
+religion = confucianism
+capital = "Changsha"
+trade_goods = grain
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
+add_core = CHC
+
+1643.1.1 = { controller = CXI } # The Xi dynasty of Zhang Xianzhong
+1647.12.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1659.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+} # The Qing Conquest of China finishes
+1673.12.1 = { controller = CZH } # Three Feudatories revolt
+1679.1.1 = { controller = QNG }

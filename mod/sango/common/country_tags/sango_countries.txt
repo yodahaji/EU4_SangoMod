@@ -1,0 +1,5 @@
+WEI = "countries/Wei.txt"
+
+SUU = "countries/Suu.txt"
+
+WWU = "countries/Wwu.txt"

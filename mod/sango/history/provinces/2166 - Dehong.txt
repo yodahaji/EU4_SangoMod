@@ -1,0 +1,26 @@
+# 2166 - Dehong
+
+owner = SUU
+controller = SUU
+add_core = SUU
+culture = shan
+religion = buddhism
+capital = "Dehong"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+add_core = CDL
+
+1662.4.1 = {
+	owner = CZH
+	controller = CZH
+	add_core = CZH
+} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
+1681.10.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}

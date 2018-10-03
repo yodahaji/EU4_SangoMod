@@ -1,0 +1,23 @@
+#2069 - Kumaon
+
+owner = GHR
+controller = GHR
+culture = nepali
+religion = hinduism
+capital = "Champawat"
+trade_goods = naval_supplies
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = GHR
+
+1568.1.1 = { capital = "Almora" }
+
+1790.1.1 = { owner = NPL controller = NPL }
+1814.11.1 = { controller = GBR }
+1816.12.2 = {
+	owner = GBR
+	add_core = GBR
+}

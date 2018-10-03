@@ -1,0 +1,23 @@
+#686 - Anqing (can't change file name)
+
+owner = WWU
+controller = WWU
+add_core = WWU
+culture = jianghuai
+religion = confucianism
+capital = "Anqing"
+trade_goods = cloth
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 2
+is_city = yes
+
+1645.6.14 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1675.1.1 = { controller = WWU }
+1680.1.1 = { controller = QNG }
+1683.1.1 = { remove_core = WWU } # The government in Taiwan surrendered

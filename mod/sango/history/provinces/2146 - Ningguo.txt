@@ -1,0 +1,20 @@
+# 2144 - Ningguo
+
+owner = WWU
+controller = WWU
+add_core = WWU
+culture = wu
+religion = confucianism
+capital = "Ningguo"
+trade_goods = chinaware
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+1645.6.14 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}

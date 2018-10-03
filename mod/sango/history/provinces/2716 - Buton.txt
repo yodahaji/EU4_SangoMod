@@ -1,0 +1,16 @@
+#2716 - Buton
+
+owner = BTN
+controller = BTN
+culture = sulawesi
+religion = animism
+capital = "Buton"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = BTN
+
+1605.9.1 = { religion = sunni }

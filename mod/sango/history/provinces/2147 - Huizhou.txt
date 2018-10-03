@@ -1,0 +1,21 @@
+# 2147 - Huizhou
+
+owner = WWU
+controller = WWU
+add_core = WWU
+culture = wu
+religion = confucianism
+capital = "Huizhou"
+trade_goods = tea
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core = WUU
+
+1645.6.14 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}

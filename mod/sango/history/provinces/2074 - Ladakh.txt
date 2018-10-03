@@ -1,0 +1,26 @@
+#2074 - Ladakh
+
+owner = LDK
+controller = LDK
+culture = kashmiri
+religion = vajrayana
+capital = "Leh"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = LDK
+
+1450.1.1 = {
+	owner = KSH
+	controller = KSH
+	add_core = KSH
+} #Shah Mirs
+1570.1.1 = {
+	owner = LDK
+	controller = LDK
+	remove_core = KSH
+}
+
