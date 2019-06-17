@@ -1,0 +1,13 @@
+alliance = {
+    first = SUU
+    second = WWU
+    start_date = 1443.1.1
+    end_date=1515.12.31
+}
+
+royal_marriage = {
+	first = SUU
+    second = WWU
+    start_date = 1443.1.1
+    end_date=1515.12.31
+}

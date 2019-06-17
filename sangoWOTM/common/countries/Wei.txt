@@ -1,0 +1,84 @@
+graphical_culture = asiangfx
+
+revolutionary_colors = { 5  8  1 } #Inspired by the Five Color Flag
+
+color = { 72 61 139 }
+
+historical_idea_groups = {
+	aristocracy_ideas 
+    expansion_ideas	
+    quantity_ideas
+    influence_ideas
+	defensive_ideas
+    humanist_ideas
+    offensive_ideas
+    innovativeness_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Cao #0" = 20
+    "Pi #0" = 20
+    "Zhi #0" = 20
+    "Rui #0" = 20
+    "Fang #0" = 20
+    "Jin #0" = 0
+    "Liao #0" = 0
+    "Dun #0" = 0
+    "Yuan #0" = 0
+    "He #0" = 0
+    "Jing #0" = 0
+    "Wei #0" = 0
+    "Zhu #0" = 0
+    "Yu #0" = 0
+    "Xu #0" = 0 
+    "Yi #0" = 0
+    "Jia #0" = 0
+    "Can #0" = 0
+    "Ren #0" = 0
+}
+
+leader_names = {
+	Cao Wu Geng Shang Zheng Zhao Li Shi Liu Guo Yang Wang Qian Ma Meng Gao 
+	Chen Sun Sima Xiao Qi Zu Zhou Huang Bai Qiu Tang Lu	Xu Chang 
+	Feng Deng Hua Gu Fei Fu Hu Mei Xue Liao Jin Ye He Lan Du Fang Mao Hao 
+	Kong Jiao Si Pan Zuo Ding Bao Yan Tan Han Luo Xie Yuan Qin Ruan	Niu Zeng
+	Dong Lin Shen Ouyang Su Yu Ren Chai Xia Mo Dai Jiang Yue Jia Xiong Cui
+    "XiaHou" "ShiMa" "Zhuge"
+}
+
+ship_names = {
+	Beiji Tianshu Sifu Gouchen Tianzhu Zhushi Tianqiang Xuange
+	Taizun Beidou Santai Tianji Wenchang Qizhenjiangjun Tenshe
+	Liaoning Beiluoshimen Yujing Hongshi 
+	Qinglong Baihu Zhuque Xuanwu Zhaowu Yong'an Nan'an Longhai Fu'an Fuding Jinchang
+	Qingyuan Xining Xingyi Wu'an Xianning Ruichang Xinghua
+	Zhaoyuan Xingping Yongji Xiaoyi Yongkang Rende Anding
+	Yanping 
+}
+
+army_names = {
+	"Hu Bao Qi"
+    "Cao Jia Jun"
+    "ZhongJun"
+    "XiJun"
+    "DongJun"
+    "BeiJun"
+    "NanJun"
+}

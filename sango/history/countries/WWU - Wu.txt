@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = chinese
+religion = confucianism
+add_harmonized_religion = mahayana
+primary_culture = jianghuai
+capital = 1821	# Nanjing
+
+historical_rival = WEI
+
+1444.1.1 = {
+	monarch = {
+		name = "Quan"
+		dynasty = "Sun"
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+    
+    leader = { name = "Ning"	type = general	rank = 4	fire = 4	shock = 4	manuever = 4	siege = 4 }
+}
+
+1470.2.5 = {
+    heir = {
+        name = "Ce"
+        monarch_name = "Ce"
+		dynasty = "Sun"
+        birth_date = 1455.10.21
+		death_date = 1550.3.14
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+    }
+    leader = { name = "Zhou Yu"	type = general	rank = 5	fire = 6	shock = 5	manuever = 5	siege = 4 }
+}
+
+1505.1.1 = {
+    monarch = {
+		name = "Ce"
+		dynasty = "Sun"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+    heir = {
+        name = "Jian"
+        monarch_name = "Jian"
+		dynasty = "Sun"
+        birth_date = 1480.10.21
+		death_date = 1570.3.14
+		claim = 100
+		adm = 3
+		dip = 3
+        mil = 6
+    }
+}
